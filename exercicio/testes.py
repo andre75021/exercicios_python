@@ -1,2 +1,8 @@
-def calcula_pagamento(horas,vHora):
-	return horas * vHora
+import math
+
+a = math.pi
+
+print('{:2.200f}'.format (a))
+
+
+        
