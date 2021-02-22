@@ -19,8 +19,7 @@ while True :
         max = iNum
     elif iNum < min :
         min = iNum
-        
+
 
 print('Maximum is',max)
 print('Minimum is',min)
-
