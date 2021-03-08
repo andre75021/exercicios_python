@@ -1,8 +1,7 @@
-import math
+fruit = 'peneapple'
+index = 0
 
-a = math.pi
-
-print('{:2.200f}'.format (a))
-
-
-        
+while  index < len(fruit):
+    letter = fruit[index]
+    print(letter)
+    index += 1
