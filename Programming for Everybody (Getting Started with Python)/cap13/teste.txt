@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<emit>
+<CNPJ>35402759000185</CNPJ>
+<xNome>BIMBO DO BRASIL LTDA</xNome>
+<xFant>35402759000185</xFant>
+<enderEmit>
+<xLgr>ERICO VERISSIMO</xLgr>
+<nro>342</nro>
+<xBairro>JARDIM CAMBARA</xBairro>
+<cMun>3550308</cMun>
+<xMun>SÃO PAULO</xMun>
+<UF>SP</UF>
+<CEP>05560900</CEP>
+</enderEmit>
+<IE>110337602110</IE>
+<IM>110337602110</IM>
+<CRT>3</CRT>
+</emit>
